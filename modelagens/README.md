@@ -1,12 +1,14 @@
-# Primeira leva de exercícios
+# Modelagem 1.0
 
 |Atividades|Link|
 |-|-|
 |at-01|[img](./atividade01/atividade01.png)|
-|at-02|[img](./atividade02/atividade02.png)|
-|at-03|[img](./atividade03/atividade03.png)|
-|at-04|[img](./atividade04/atividade04_corrigido.png)|
-|at-05|[img](./atividade05/atividade05_corrigido.png)|
-|at-06|[img](./atividade06/atividade06_corrigido.png)|
-|at-07|[img](./atividade07/atividade07.png)|
-|at-08|[img](./atividade08/atividade08_corrigido.png)|
+|Petshop|[img](./atividade02/documentacao.md)|
+|Biblioteca(1)|[img](./atividade03/documentacao.md)|
+|Berçario|[img](./atividade04/documentacao.md)|
+|Floricultura|[img](./atividade05/documentacao.md)|
+|Biblioteca(2)|[img](./atividade06/documentacao.md)|
+|Firma|[img](./atividade07/documentacao.md)|
+|Empresa de limpeza|[img](./atividade08/documentacao.md)|
+
+[VOLTAR](../README.md)
