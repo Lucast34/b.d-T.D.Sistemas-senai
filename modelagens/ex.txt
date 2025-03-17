@@ -1,30 +1,30 @@
-1. Você foi contratado como analista de dados para uma clínica médica. Sua tarefa é modelar o banco de dados da clínica, que possui médicos, pacientes e consultas. Cada consulta envolve um médico e um paciente, e a clínica quer registrar informações como o nome do médico, sua especialidade, o nome do paciente e a data da consulta. Defina as entidades, atributos e relacionamentos necessários para gerenciar esse sistema.
+1. 
 - feito
 
-2. Um sistema de biblioteca precisa ser desenvolvido para gerenciar os empréstimos de livros. Os usuários podem pegar livros emprestados, e é necessário controlar a data de empréstimo e a data de devolução. Cada livro possui um título, um autor e um ano de publicação, e cada usuário precisa ser registrado com nome e e-mail. Modele o sistema de modo que a biblioteca possa controlar seus empréstimos e gerenciar seus livros e usuários.
+2. 
 - feito
 
-3. Você é responsável por criar um sistema de vendas para uma loja online. O sistema deve registrar os pedidos feitos pelos clientes, sendo que cada pedido contém produtos, e é necessário armazenar o nome do produto e seu preço. Além disso, é preciso registrar informações dos clientes, como nome e e-mail, e dos pedidos, como a data em que foram realizados. Desenvolva o modelo conceitual para este sistema, incluindo as entidades e relacionamentos necessários.
+3. 
 - feito
 
-4. Como desenvolvedor de sistemas para uma escola de magia, você precisa criar um modelo de banco de dados. A escola quer registrar informações sobre seus magos, que participam de aulas para aprender feitiços. As aulas são ministradas por professores e os feitiços variam em nível de dificuldade. Cada mago tem um nome e um nível de magia. Modele esse sistema e defina como as aulas, os feitiços e os magos se relacionam.
+4. 
 - feito
 
-5. Um novo jogo de super-heróis está sendo desenvolvido, e você foi contratado para projetar o banco de dados. No jogo, heróis enfrentam vilões em diversas missões. Cada herói tem um poder principal, e cada vilão tem um poder que o torna temível. As missões acontecem em diferentes locais. Defina as entidades e os relacionamentos que permitirão que o sistema do jogo controle essas informações.
+5. 
 - feito
 
-6. Você foi escolhido para desenvolver o sistema de um parque de diversões. O parque quer registrar informações sobre os visitantes, os brinquedos disponíveis e os ingressos vendidos. Cada visitante pode comprar ingressos para se divertir em diferentes brinquedos. Cada brinquedo tem um nome e pode ter uma altura mínima para ser utilizado. Modele esse sistema considerando as interações entre visitantes, ingressos e brinquedos.
+6. 
 - feito
 
-7. Seu desafio é criar um banco de dados para um zoológico virtual. O zoológico quer controlar os habitats, animais e cuidadores. Cada animal tem uma espécie e uma idade, e vive em um habitat específico. Os cuidadores são responsáveis por múltiplos habitats, mas cada habitat pode ter diferentes condições ambientais, como a temperatura. Modele o sistema de forma a organizar essas interações entre animais, habitats e cuidadores.
+7. 
 - feito
 
-8. Você foi contratado por uma loja de quadrinhos que precisa organizar suas informações. A loja quer gerenciar clientes, quadrinhos e vendas. Cada venda deve registrar os quadrinhos comprados, e cada cliente precisa ser identificado. Alguns dados como o título e o autor dos quadrinhos são essenciais. Modele o sistema de vendas da loja, organizando as relações entre clientes, quadrinhos e as transações de venda.
+8. 
 - feito
 
-9. Um restaurante intergaláctico precisa de um banco de dados para gerenciar seus pedidos. Os clientes vêm de diferentes planetas e fazem pedidos que contêm pratos especiais de várias galáxias. Cada prato tem um ingrediente principal que o torna único. O sistema precisa armazenar os pedidos realizados pelos clientes e o valor total de cada pedido. Modele esse sistema, considerando as interações entre clientes, pratos e pedidos.
+9. 
 - feito
 
-10. Um estúdio de cinema contratou você para desenvolver o sistema que gerencia seus filmes. Cada filme tem um diretor e pode ter vários atores, e o estúdio quer registrar informações como o título do filme e o ano de lançamento. Cada diretor possui uma nacionalidade e já pode ter dirigido vários filmes. Modele o sistema de forma que as relações entre filmes, diretores e atores sejam bem representadas.
+10. 
 - feito
 
