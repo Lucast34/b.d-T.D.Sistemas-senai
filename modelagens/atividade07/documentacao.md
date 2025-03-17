@@ -14,6 +14,14 @@ livros associados a ela.
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](atividade07.png)
+![modelagem 1.0](./conceitual/atividade07.png)
+
+## Cardinalidade
+
+![]
+
+## Modelo Logico (DER 2.0)
+
+![modelagem 2.0](./logico/atividade07_logico.png)
 
 [VOLTAR](../README.md)

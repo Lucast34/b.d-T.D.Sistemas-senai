@@ -6,6 +6,14 @@ Uma biblioteca pretende controlar o empréstimo de livros, os dados armazenados 
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](atividade03.png)
+![modelagem 1.0](./conceitual/atividade03.png)
+
+## Cardinalidade
+
+![]
+
+## Modelo Logico (DER 2.0)
+
+![modelagem 2.0](./logico/atividade3_logico.png)
 
 [VOLTAR](../README.md)

@@ -9,6 +9,14 @@ associada a várias turmas (com horários diferentes).
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](atividade06_corrigido.png)
+![modelagem 1.0](./conceitual/atividade06_corrigido.png)
+
+## Cardinalidade
+
+![]
+
+## Modelo Logico (DER 2.0)
+
+![modelagem 2.0](./logico/atividade06_logico.png)
 
 [VOLTAR](../README.md)

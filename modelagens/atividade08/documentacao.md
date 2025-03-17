@@ -16,6 +16,14 @@ produtos, e para cada produto, indica-se a quantidade deste pedida.
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](atividade08_corrigido.png)
+![modelagem 1.0](./conceitual/atividade08_corrigido.png)
+
+## Cardinalidade
+
+![]
+
+## Modelo Logico (DER 2.0)
+
+![modelagem 2.0](./logico/atividade08_logico.png)
 
 [VOLTAR](../README.md)

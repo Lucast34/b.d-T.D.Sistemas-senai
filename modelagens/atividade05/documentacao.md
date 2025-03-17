@@ -14,6 +14,14 @@ data da compra, o valor total e os produtos comprados.
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](atividade05_corrigido.png)
+![modelagem 1.0](./conceitual/atividade05_corrigido.png)
+
+## Cardinalidade
+
+![]
+
+## Modelo Logico (DER 2.0)
+
+![modelagem 2.0](./logico/atividade05_logico.png)
 
 [VOLTAR](../README.md)
