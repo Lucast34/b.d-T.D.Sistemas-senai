@@ -6,14 +6,14 @@ Um restaurante intergaláctico precisa de um banco de dados para gerenciar seus 
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade.png)
+![modelagem 1.0](./correcao/atividade17_semcardinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./correcao/atividade17.png)
 
 ## Modelo Logico (DER 2.0)
 
-![modelagem 2.0](./logico/atividade.png)
+![modelagem 2.0](./logico/atividade17.png)
 
 [VOLTAR](../README.md)
