@@ -6,14 +6,14 @@ Como desenvolvedor de sistemas para uma escola de magia, você precisa criar um 
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade.png)
+![modelagem 1.0](./correcao/atividade12_semcardinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./correcao/atividade12.png)
 
 ## Modelo Logico (DER 2.0)
 
-![modelagem 2.0](./logico/atividade.png)
+![modelagem 2.0](./logico/atividade12.png)
 
 [VOLTAR](../README.md)
