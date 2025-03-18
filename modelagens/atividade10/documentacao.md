@@ -6,14 +6,14 @@ Um sistema de biblioteca precisa ser desenvolvido para gerenciar os empréstimos
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade.png)
+![modelagem 1.0](./correcao/atividade10_semcardinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./correcao/atividade10.png)
 
 ## Modelo Logico (DER 2.0)
 
-![modelagem 2.0](./logico/atividade.png)
+![modelagem 2.0](./logico/atividade10.png)
 
 [VOLTAR](../README.md)
