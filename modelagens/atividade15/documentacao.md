@@ -6,14 +6,13 @@ Seu desafio é criar um banco de dados para um zoológico virtual. O zoológico 
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade.png)
+![modelagem 1.0](./correcao/atividade15_semcardinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./correcao/atividade15.png)
 
 ## Modelo Logico (DER 2.0)
 
-![modelagem 2.0](./logico/atividade.png)
-
+![modelagem 2.0](./logico/atividade15.png)
 [VOLTAR](../README.md)
