@@ -13,11 +13,11 @@ registrados mesmo que não possuam pets atrelados a eles.
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade02.png)
+![modelagem 1.0](./conceitual/atividade02_semcadinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./conceitual/atividade02_final.png)
 
 ## Modelo Logico (DER 2.0)
 
