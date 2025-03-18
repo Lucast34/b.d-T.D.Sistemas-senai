@@ -9,11 +9,11 @@ associada a várias turmas (com horários diferentes).
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade06_corrigido.png)
+![modelagem 1.0](./conceitual/atividade06_semcadinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./conceitual/atividade06_corrigido.png)
 
 ## Modelo Logico (DER 2.0)
 
