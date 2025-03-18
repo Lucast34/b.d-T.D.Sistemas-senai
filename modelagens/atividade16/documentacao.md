@@ -6,14 +6,14 @@ Você foi contratado por uma loja de quadrinhos que precisa organizar suas infor
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade.png)
+![modelagem 1.0](./correcao/atividade16_semcardinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./correcao/atividade16.png)
 
 ## Modelo Logico (DER 2.0)
 
-![modelagem 2.0](./logico/atividade.png)
+![modelagem 2.0](./logico/atividade16.png)
 
 [VOLTAR](../README.md)
