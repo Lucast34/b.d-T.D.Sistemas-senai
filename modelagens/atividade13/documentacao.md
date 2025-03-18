@@ -6,14 +6,14 @@ Um novo jogo de super-heróis está sendo desenvolvido, e você foi contratado p
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade.png)
+![modelagem 1.0](./correcao/atividade13_semcardinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./correcao/atividade13.png)
 
 ## Modelo Logico (DER 2.0)
 
-![modelagem 2.0](./logico/atividade.png)
+![modelagem 2.0](./logico/atividade13.png)
 
 [VOLTAR](../README.md)
