@@ -12,11 +12,11 @@ saber: CRM, nome, telefone celular e especialidade.
 
 ## Modelo conceitual (DER 1.0)
 
-![modelagem 1.0](./conceitual/atividade4_corrigido.png)
+![modelagem 1.0](./conceitual/atividade4_corrigido_semcadinalidade.png)
 
 ## Cardinalidade
 
-![]
+![cardinalidade](./conceitual/atividade4_corrigido.png)
 
 ## Modelo Logico (DER 2.0)
 
