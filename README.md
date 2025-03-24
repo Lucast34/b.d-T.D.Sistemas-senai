@@ -32,3 +32,4 @@ Nesta etapa converteremos o modelo conceitual, para uma data base que existe.
 |Exercicios|Link|
 |----------|----|
 |Modelagens|[Conceitual](./modelagens/README.md)|
+|SQL|[Cogigo](./sql/README.md)|
