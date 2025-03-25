@@ -4,16 +4,17 @@ Caso queira ver o arquivo do código acesse por aqui:
 
 |Código|arquivo|
 |------|-------|
-|db_consultas|[codigo](./db_consulta.sql)|
-|db_biblioteca|[codigo](./db_biblioteca.sql)|
-|db_loja|[codigo](./db_loja.sql)|
-|db_escola_magia|[codigo](./db_escola_magia.sql)|
-|db_heroi_vs_vilao|[codigo](./db_heroi_vs_vilao.sql)|
-|db_parque_diversoes|[codigo](./db_parque_diversoes.sql)|
-|db_zoo|[codigo](./db_zoo.sql)|
-|db_loja_quadrinhos|[codigo](./db_loja_quadrinho.sql)|
-|db_restaurante|[codigo](./db_restaurante.sql)|
-|db_filme|[codigo](./db_filme.sql)|
+|db_consultas|[codigo](./dbs/db_consulta.sql)|
+|db_biblioteca|[codigo](./dbs/db_biblioteca.sql)|
+|db_loja|[codigo](./dbs/db_loja.sql)|
+|db_escola_magia|[codigo](./dbs/db_escola_magia.sql)|
+|db_heroi_vs_vilao|[codigo](./dbs/db_heroi_vs_vilao.sql)|
+|db_parque_diversoes|[codigo](./dbs/db_parque_diversoes.sql)|
+|db_zoo|[codigo](./dbs/db_zoo.sql)|
+|db_loja_quadrinhos|[codigo](./dbs/db_loja_quadrinho.sql)|
+|db_restaurante|[codigo](./dbs/db_restaurante.sql)|
+|db_filme|[codigo](./dbs/db_filme.sql)|
+|db_babearia|[codigo](./dbs/db_barbearia.sql)|
 
 ## db_consultas
 
@@ -472,5 +473,50 @@ create table if not exists tb_ator_filme(
 constraint fk_tb_filme foreign key (id_filme_af) references tb_filme(id_filme),
 constraint fk_tb_ator foreign key (id_ator_af) references tb_ator(id_ator)
 )auto_increment=1;
+
+```
+
+## db_barbearia
+
+``` sql
+
+create database if not exists db_barbearia
+charset utf8mb4 collate utf8mb4_general_ci; -- DDL
+
+use db_barbearia; -- DQL
+
+create table if not exists tb_cliente (
+	id int primary key auto_increment,
+    nome varchar(60) not null,
+    whatsapp char(13) not null,
+    email varchar(80) unique
+)auto_increment=1; -- DDL
+
+show tables; -- DQL
+
+describe tb_cliente; -- DQL
+ 
+insert into tb_cliente(nome,whatsapp,email) values('Joao','6188445533','joao@gmail.com'); -- DML
+
+select * from tb_cliente; -- DQL
+
+create table if not exists tb_servicos(
+	id int primary key auto_increment,
+    nome varchar(255) not null,
+    valor float(5,2) not null
+)auto_increment=1;
+-- populando
+insert into tb_servicos(nome,valor) 
+values('Corte', 37.00),
+('Barba', 29.00),
+('Acabamento', 17.00),
+('Maquina', 28.00),
+('Hidratacao', 45.00),
+('Escova Progressiva', 42.00),
+('Sobrancelha', 37.00),
+('Pigmentação Barba', 38.00),
+('Depilação com Cera', 32.00);
+
+select * from tb_servicos;
 
 ```
