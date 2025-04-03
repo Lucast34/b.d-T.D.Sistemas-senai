@@ -1,0 +1,78 @@
+Empresa: TreinaWeb
+
+valor do projeto total: 250 mil reais 
+
+valor do serviço do banco : 25 mil reais 
+
+## autenticação
+
+Caso primario:
+Usuario: Login -> CPF ou email|senha -> int|google -> auticação com a google
+
+Caso secundario:
+Ocorrerá esse caso, Se o usuario se esquecer do seu login ou senha
+Solução: link -> redefinir senha -> campo senha será sobreescrito
+
+## perfil do usuario
+
+Caso primario:
+Usuario: Atributos adicionais(not null)|nome completo -> varchar|dt_nascimento->date|Sexo -> char(?)|CPF -> char|celular -> int(multi-valorado)|Pais(char)
+
+Caso secunadario:
+Ocorrerá esse caso, Se o usuario informar dados invalidos.
+Solução: Sistema -> nova validação dos dados. Caso ainda ocorra o error, peça para o usuario rever os dados.
+
+## painel do usuario
+
+Caso primario:
+Tera uma tela do lado esquerdo que o usuario ira interagir para acessar os cursos diposnives:
+ - Cursos avulsos
+ - Formação
+ - Projeto pratico
+ - Direto ao ponto
+
+## painel de usuario -> Formação
+
+Caso primario:
+A formaçãp possui:
+ - logo
+ - nome
+ - descrição
+ - qt de cursos
+ - qt horas de videos
+ - qt exercicios
+
+Caso secundario:
+Esse caso ocorrera para validação de informações que forem inceridas no banco:
+
+- verificar se a quantidade de cursos é inteiro entre outras validações de campo
+
+## painel de usuario -> Cursos
+
+Curso primario:
+Na area do curso terá:
+ - logo
+ - nome
+ - ultimo acesso
+ - progresso
+
+## Cursos -> Detalhes do curso
+
+Caso primario:
+Detalhes do curso vai ser atraves de modulos:
+ - Introdução
+ - ambiente
+ - primeiros passos
+ - etc.
+
+## Cursos -> Aula
+
+Caso primario:
+No campo de aula ficara os conteudos de video e textos didaticos. Os tipo serão:
+ - video (com texto, tempo e a midia)
+ - texto (titulo, texto, com ou sem imagem e campo deticado a codigo)
+
+## Aula -> Exercicios
+
+Caso primario:
+Um questionario com três perguntas de mutiplas escolhas
