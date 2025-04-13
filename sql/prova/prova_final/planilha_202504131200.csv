@@ -1,0 +1,4 @@
+"nome_produto","preco_de_venda","preco_de_custo","porcetagen_do_ifood","valor_ifood","valor_entrega","margem_de_lucro","preco_do_combo","custo_do_cimbo","preco_da_venda_do_combo"
+sanduiche de frango,14.29,10.0,15.0,2.14,5.0,30,22.0,30.0,42.85
+lanche de carne,17.14,10.0,20.0,3.43,5.0,30,,,
+sudo natural,5.71,4.0,10.0,0.57,5.0,30,,,

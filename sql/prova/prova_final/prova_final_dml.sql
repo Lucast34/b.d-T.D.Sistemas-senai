@@ -2,6 +2,7 @@ use db_lanchonete;
 
 insert into tb_produto(nome,preco_venda,preco_custo,magem_lucro) 
 values("sanduíche de frango",14.29,10,30),("lanche de carne",17.14,12,30),("suco natural",5.71,4,30);
+
 SELECT * FROM tb_produto;
 
 insert into tb_entrega(vl_ifood,porc_ifood,vl_entrega) 
